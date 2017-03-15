@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>http://www.liudaye.com/blogs/2017-03-14-fristblog.html</loc>
+    <loc>http://www.liudaye.com/blogs/2017-03-14-firstblog.html</loc>
     <lastmod>2017-03-15T03:26:06.095Z</lastmod>
     <data>
         <display>
