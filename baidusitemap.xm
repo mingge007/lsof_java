@@ -4,39 +4,19 @@
 
     
   <url>
-    <loc>http://www.liudaye.com/blogs/2017-03-15-hello-world.html</loc>
-    <lastmod>2017-03-15T03:25:58.762Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-03-15T03:25:58.762Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="hexo" url="http://www.liudaye.com/categories/hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.liudaye.com/blogs/2017-03-14-fristblog.html</loc>
-    <lastmod>2017-03-15T02:34:30.007Z</lastmod>
+    <lastmod>2017-03-15T03:26:06.095Z</lastmod>
     <data>
         <display>
         <title>博客安家手记</title>
         <pubTime>2017-03-14T06:08:56.000Z</pubTime>
         
-        <tag>博客</tag>
+        <tag>博客 hexo</tag>
          
          
            
              
-              <breadCrumb title="编程" url="http://www.liudaye.com/categories/%E7%BC%96%E7%A8%8B/"/>
+              <breadCrumb title="生活" url="http://www.liudaye.com/categories/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>

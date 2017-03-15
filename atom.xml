@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.liudaye.com/"/>
-  <updated>2017-03-15T03:25:58.762Z</updated>
+  <updated>2017-03-15T03:26:06.095Z</updated>
   <id>http://www.liudaye.com/</id>
   
   <author>
@@ -16,49 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://www.liudaye.com/blogs/2017-03-15-hello-world.html"/>
-    <id>http://www.liudaye.com/blogs/2017-03-15-hello-world.html</id>
-    <published>2017-03-15T03:25:58.762Z</published>
-    <updated>2017-03-15T03:25:58.762Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="别号-quote"><a href="#别号：-quote" class="headerlink" title="别号： quote"></a>别号： quote</h1><blockquote><p>content</p>
-<footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote>
-<h2 id="没有提供参数则只输出普通的-blockquote"><a href="#没有提供参数，则只输出普通的-blockquote" class="headerlink" title="没有提供参数，则只输出普通的 blockquote"></a>没有提供参数，则只输出普通的 blockquote</h2><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
-</blockquote>
-<h2 id="引用书上的句子"><a href="#引用书上的句子" class="headerlink" title="引用书上的句子"></a>引用书上的句子</h2><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
-<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
-<h2 id="引用-twitter"><a href="#引用-Twitter" class="headerlink" title="引用 Twitter"></a>引用 Twitter</h2><blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="external">http://devdocs.io</a></p>
-<footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="external">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote>
-<h2 id="引用网络上的文章"><a href="#引用网络上的文章" class="headerlink" title="引用网络上的文章"></a>引用网络上的文章</h2><blockquote><p>Every interaction is both precious and an opportunity to delight.</p>
-<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
-<h1 id="别名-code"><a href="#别名：-code" class="headerlink" title="别名： code"></a>别名： code</h1><figure class="highlight plain"><figcaption><span>[title] [] [url] [link text]</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">code snippet</div></pre></td></tr></table></figure>
-<h2 id="普通的代码块"><a href="#普通的代码块" class="headerlink" title="普通的代码块"></a>普通的代码块</h2><figure class="highlight less"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="selector-tag">alert</span>(<span class="string">'Hello World!'</span>);</div></pre></td></tr></table></figure>
-<h2 id="指定语言"><a href="#指定语言" class="headerlink" title="指定语言"></a>指定语言</h2><figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</div></pre></td></tr></table></figure>
-<h2 id="附加说明"><a href="#附加说明" class="headerlink" title="附加说明"></a>附加说明</h2><figure class="highlight cpp"><figcaption><span>Array.map</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">array</span>.<span class="built_in">map</span>(callback[, thisArg])</div></pre></td></tr></table></figure>
-<h2 id="附加说明和网址"><a href="#附加说明和网址" class="headerlink" title="附加说明和网址"></a>附加说明和网址</h2><figure class="highlight excel"><figcaption><span>_.compact</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">_.compact([<span class="number">0</span>, <span class="number">1</span>, <span class="built_in">false</span>, <span class="number">2</span>, '', <span class="number">3</span>]);</div><div class="line">=&gt; [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;别号-quote&quot;&gt;&lt;a href=&quot;#别号：-quote&quot; class=&quot;headerlink&quot; title=&quot;别号： quote&quot;&gt;&lt;/a&gt;别号： quote&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;content&lt;/p&gt;
-&lt;footer&gt;&lt;strong&gt;[au
-    
-    </summary>
-    
-      <category term="hexo" scheme="http://www.liudaye.com/categories/hexo/"/>
-    
-    
-      <category term="hexo" scheme="http://www.liudaye.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
     <title>博客安家手记</title>
     <link href="http://www.liudaye.com/blogs/2017-03-14-fristblog.html"/>
     <id>http://www.liudaye.com/blogs/2017-03-14-fristblog.html</id>
     <published>2017-03-14T06:08:56.000Z</published>
-    <updated>2017-03-15T02:34:30.007Z</updated>
+    <updated>2017-03-15T03:26:06.095Z</updated>
     
     <content type="html"><![CDATA[<h2 id="初心"><a href="#初心" class="headerlink" title="初心"></a>初心</h2><p>每次看到大神们技术博客新颖清新，设计扁平，心中难免冲动就想拥有一个自己的博客，作为一个后端服务开发程序猿，一想到不熟悉的静态页面都会头大。<br><a id="more"></a></p>
 <h2 id="行动"><a href="#行动" class="headerlink" title="行动"></a>行动</h2><p>域名申请下来已经两年了，忙到两年没有时间照顾自己了，年后终于找到些许时间决定调研一下，很快徜徉在各个前端大神清莲如润的博客当中，甚是惬意，像发现新大陆的孩童一般。很快chrome浏览器内存满为患，tab页已经无法数清。</p>
@@ -80,10 +42,10 @@
     
     </summary>
     
-      <category term="编程" scheme="http://www.liudaye.com/categories/%E7%BC%96%E7%A8%8B/"/>
+      <category term="生活" scheme="http://www.liudaye.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="博客" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客 hexo" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2-hexo/"/>
     
   </entry>
   
