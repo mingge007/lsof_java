@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.liudaye.com/"/>
-  <updated>2017-03-14T12:42:26.424Z</updated>
+  <updated>2017-03-15T02:34:30.007Z</updated>
   <id>http://www.liudaye.com/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://www.liudaye.com/blogs/2017-03-14-fristblog.html"/>
     <id>http://www.liudaye.com/blogs/2017-03-14-fristblog.html</id>
     <published>2017-03-14T06:08:56.000Z</published>
-    <updated>2017-03-14T12:42:26.424Z</updated>
+    <updated>2017-03-15T02:34:30.007Z</updated>
     
     <content type="html"><![CDATA[<h2 id="初心"><a href="#初心" class="headerlink" title="初心"></a>初心</h2><p>每次看到大神们技术博客新颖清新，设计扁平，心中难免冲动就想拥有一个自己的博客，作为一个后端服务开发程序猿，一想到不熟悉的静态页面都会头大。<br><a id="more"></a></p>
-<h2 id="行动"><a href="#行动" class="headerlink" title="行动"></a>行动</h2><p>域名申请下来已经两年了，忙到两年没有时间照顾自己了，年后终于找到些许时间决定调研一下，很快徜徉在各个前端大神清莲如润的博客当中，甚是惬意，想发现新大陆的孩童一般。很快chrome浏览器内存满为患，tab页已经无法数清。</p>
-<h2 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h2><p>终于在简书当中发现一种正适合我主站方式：<a href="https://pages.github.com/" target="_blank" rel="external">Github Pages</a> + <a href="https://hexo.io/zh-cn/api/index.html" target="_blank" rel="external">hexo</a> + 域名绑定，<br>教程：<a href="http://www.jianshu.com/p/834d7cc0668d" target="_blank" rel="external">参考教程:我的博客是如何搭建的（github pages + HEXO + 域名绑定） </a>,<a href="https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/" target="_blank" rel="external">手把手教你使用Hexo + Github Pages搭建个人独立博客</a>。<br>主题：<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">yilia</a>，这里有很多你想要的主题<a href="https://hexo.io/themes/" target="_blank" rel="external">可选主题列表</a><br>评论：<a href="http://duoshuo.com/" target="_blank" rel="external">多说</a><br>站长统计：<a href="http://tongji.baidu.com/web/welcome/login" target="_blank" rel="external">站长统计</a></p>
+<h2 id="行动"><a href="#行动" class="headerlink" title="行动"></a>行动</h2><p>域名申请下来已经两年了，忙到两年没有时间照顾自己了，年后终于找到些许时间决定调研一下，很快徜徉在各个前端大神清莲如润的博客当中，甚是惬意，像发现新大陆的孩童一般。很快chrome浏览器内存满为患，tab页已经无法数清。</p>
+<h2 id="选择"><a href="#选择" class="headerlink" title="选择"></a>选择</h2><p>终于在简书当中发现一种正适合我的主站方式：<a href="https://pages.github.com/" target="_blank" rel="external">Github Pages</a> + <a href="https://hexo.io/zh-cn/api/index.html" target="_blank" rel="external">hexo</a> + 域名绑定；<br>教程：<a href="http://www.jianshu.com/p/834d7cc0668d" target="_blank" rel="external">参考教程:我的博客是如何搭建的（github pages + HEXO + 域名绑定） </a>,<a href="https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/" target="_blank" rel="external">手把手教你使用Hexo + Github Pages搭建个人独立博客</a>；<br>主题：<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">yilia</a>，这里有很多你想要的主题<a href="https://hexo.io/themes/" target="_blank" rel="external">可选主题列表</a>；<br>评论：<a href="http://duoshuo.com/" target="_blank" rel="external">多说</a>；<br>站长统计：<a href="http://tongji.baidu.com/web/welcome/login" target="_blank" rel="external">百度统计</a>；<br>访问统计：<a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="external">不蒜子</a>；</p>
 <h2 id="山路崎岖"><a href="#山路崎岖" class="headerlink" title="山路崎岖"></a>山路崎岖</h2><p>难逃任何学习必经之路山路崎岖，只能慢行</p>
 <h3 id="hexo-d-发布到git报错"><a href="#hexo-d-（发布到git）报错" class="headerlink" title="hexo d （发布到git）报错"></a>hexo d （发布到git）报错</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">hexo d</div><div class="line">ERROR Deployer not found: git</div></pre></td></tr></table></figure>
 <p>解决方法<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install hexo-deployer-git –save</div></pre></td></tr></table></figure></p>
