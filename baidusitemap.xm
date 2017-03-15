@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>http://www.liudaye.com/2017/03/14/fristblog/</loc>
-    <lastmod>2017-03-14T11:16:00.961Z</lastmod>
+    <loc>http://www.liudaye.com/blogs/2017-03-14-fristblog.html</loc>
+    <lastmod>2017-03-14T12:42:26.424Z</lastmod>
     <data>
         <display>
         <title>博客安家手记</title>
@@ -16,7 +16,7 @@
          
            
              
-              <breadCrumb title="随记" url="http://www.liudaye.com/categories/%E9%9A%8F%E8%AE%B0/"/>
+              <breadCrumb title="编程" url="http://www.liudaye.com/categories/%E7%BC%96%E7%A8%8B/"/>
           
         </display>
     </data>
