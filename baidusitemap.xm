@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://www.liudaye.com/blogs/2017-03-15-hello-world.html</loc>
+    <lastmod>2017-03-15T03:25:58.762Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-03-15T03:25:58.762Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://www.liudaye.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.liudaye.com/blogs/2017-03-14-fristblog.html</loc>
     <lastmod>2017-03-15T02:34:30.007Z</lastmod>
     <data>
