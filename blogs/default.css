@@ -5,7 +5,7 @@ body{
 	padding: 0;
 	position: relative;
 	text-align: left;
-	max-width: 640px;
+	
 	margin:auto;
 	left: 0;
 	right: 0;
@@ -40,7 +40,7 @@ border: 0;
 text-align: center;	
 }
 #vplay{
-		width:90%; height:320px;
+
         border-right-width: 8px;
         border-top-width: 5px;
         border-bottom-width: 5px;
