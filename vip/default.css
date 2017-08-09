@@ -1,0 +1,115 @@
+body{
+	background-color: #008532;
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAQBAMAAAD+CqKmAAAAElBMVEXz8/Po6Oj////4+Pj7+/v19fXck713AAAAbklEQVQI11XNwQkDMQxE0QFJBWRKSAUCxXeB7bvA2f5bCcHgTf7hXx8eP4HPb/vgLAEoUuKgqeBiZmWA3dBfjJQBcK2spJWqgS1ChLDIAU7NcI6Y3v6djexj2U1BZzsUfL0PBe9+KMh1U7CSQ30ArNcZPoEeBscAAAAASUVORK5CYII=');
+	margin: 0 auto 0;
+	padding: 0;
+	position: relative;
+	text-align: left;
+	max-width: 1200px;
+	margin:auto;
+	left: 0;
+	right: 0;
+
+}
+#main{
+
+}
+
+#header{
+background-color: #001a35;
+text-align: center;
+margin-bottom: 2%;
+padding: 10px 0 10px 0;
+border-radius: 20px;	
+}
+.header_a{margin:auto;height:30px;color: #00c0ef;font-size: 28px;}
+.hicon{width:30px;height:30px;border-radius: 30px;}
+
+#notice{
+border-width:0;
+border-style: none;
+border-color: rgba(255, 255, 255, 0.5);
+width: 100%;
+height: 74px;
+overflow:hidden;
+}
+
+#ckvip{
+position:relative;
+border: 0;
+text-align: center;	
+}
+#vplay{
+		width:100%; height:75%;
+        border-right-width: 8px;
+        border-top-width: 5px;
+        border-bottom-width: 5px;
+        border-left-width: 8px;
+        border-color: black;
+        border-radius: 5px;
+		overflow:hidden;
+        background-color: rgb(191, 191, 191);
+		background-image:url(snow.gif);
+		}
+
+#description{
+text-align: center;font-size: 0.65rem;margin: 0 5px 0 5px;
+}
+.feedb{
+margin-left: 2px;
+width: 10%;
+background-color:black;
+border-radius: 5px;
+font-size: 50%;
+color:white;}
+.vlink{
+border: 2px solid #bde9ff;
+width: 100%;
+}
+.v1{font-size: 0.9rem;margin-top: 0;}
+.v2{color: #0033cc;text-decoration:none;font-size: 1rem;}
+
+#api{
+    margin-bottom: 2%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: left;
+    background-image: url();
+	display:block;
+}
+#url{
+width: 95%;
+margin-bottom: 2%;
+height:30px;
+border-radius: 2px;
+display:block;
+}
+.selectid{
+display:inline;
+}
+.userapi{
+display:none;
+}
+.okbutton{
+width: 20%;
+height:30px;
+background-color: #c2e0ff;
+border-radius: 5px;
+font-size: 50%;
+display:block;
+}
+
+#foot{
+text-align: center;
+font-size: 50%;
+width:100%;
+margin-top: 40px;
+}
+#cnzz_stat_icon_1263020785{
+display:block;
+font-size:80%;
+border:2px solid #bde9ff;
+}
+
+
+  
