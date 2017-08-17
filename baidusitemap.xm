@@ -6,7 +6,7 @@
     
   <url>
     <loc>http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html</loc>
-    <lastmod>2017-08-17T12:55:14.088Z</lastmod>
+    <lastmod>2017-08-17T12:57:42.558Z</lastmod>
     <data>
         <display>
         <title>Selenium学习</title>
