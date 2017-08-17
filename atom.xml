@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.liudaye.com/"/>
-  <updated>2017-08-17T12:47:12.598Z</updated>
+  <updated>2017-08-17T12:55:14.088Z</updated>
   <id>http://www.liudaye.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html"/>
     <id>http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html</id>
     <published>2017-08-17T08:42:02.000Z</published>
-    <updated>2017-08-17T12:47:12.598Z</updated>
+    <updated>2017-08-17T12:55:14.088Z</updated>
     
-    <content type="html"><![CDATA[<p>#介绍Selenium<br>Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！<br><img src="http://p4.music.126.net/yxOCjO4wKhWlzp21-_CdBg==/18673005976849329.jpg?param=400y400" alt="avatar" title="大龄单身孤独症候群患者专享"></p>
-<p><embed src="//music.163.com/style/swf/widget.swf?sid=575073602&type=0&auto=1&width=310&height=430" width="330" height="450" allownetworking="all"><br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p>#介绍Selenium<br>Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！</p>
+<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=575073602&auto=1&height=430"></iframe><br><a id="more"></a></p>
 <p>#安装python<br><a href="https://www.python.org/downloads/" target="_blank" rel="external">https://www.python.org/downloads/</a> 下载python3不要在首页直接点下载，要根据电脑选择适合的安装包<br><a href="https://www.python.org/downloads/release/python-362/" target="_blank" rel="external">https://www.python.org/downloads/release/python-362/</a> 选【Windows x86-64 executable installer】版本</p>
 <p>安装时选择自定义目录，添加path，和下载基本库，debug等等选项。</p>
 <p>组合按键：win+r，输入：sysdm.cpl，选择高级，查看环境变量是否都配置完整<br>例如<br>主目录：D:\Python36\<br>脚本目:录D:\Python36\Scripts\<br>组合按键：win+r，输入cmd,打开命令行界面，输入python  \pip3 -V 分别检测安装情况</p>
@@ -48,8 +48,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;#介绍Selenium&lt;br&gt;Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！&lt;br&gt;&lt;img src=&quot;http://p4.music.126.net/yxOCjO4wKhWlzp21-_CdBg==/18673005976849329.jpg?param=400y400&quot; alt=&quot;avatar&quot; title=&quot;大龄单身孤独症候群患者专享&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;embed src=&quot;//music.163.com/style/swf/widget.swf?sid=575073602&amp;type=0&amp;auto=1&amp;width=310&amp;height=430&quot; width=&quot;330&quot; height=&quot;450&quot;  allowNetworking=&quot;all&quot;&gt;&lt;/embed&gt;&lt;br&gt;
+      &lt;p&gt;#介绍Selenium&lt;br&gt;Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=575073602&amp;auto=1&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;br&gt;
     
     </summary>
     
@@ -69,10 +69,10 @@
     <link href="http://www.liudaye.com/blogs/2017-03-20-second.html"/>
     <id>http://www.liudaye.com/blogs/2017-03-20-second.html</id>
     <published>2017-03-20T10:10:01.000Z</published>
-    <updated>2017-08-17T12:07:35.473Z</updated>
+    <updated>2017-08-17T12:51:08.816Z</updated>
     
     <content type="html"><![CDATA[<h2 id="被遗忘在角落里的呐喊"><a href="#被遗忘在角落里的呐喊" class="headerlink" title="被遗忘在角落里的呐喊"></a>被遗忘在角落里的呐喊</h2><p><img src="http://p3.music.126.net/nA2ejmvBBAqyg-4MSf7qbg==/109951162872413650.jpg?param=400y400" alt="avatar" title="崔健"></p>
-<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=622277688&auto=1&height=430"></iframe><br>本歌单主要集合了在国内各种摇滚风格里，具有代表性的摇滚人或摇滚乐队的作品，只有崔健的加了三首，分别为《一无所有》、《新长征路上的摇滚》、《花房姑娘》，其他的只选择了一首。<br><a id="more"></a><br>个别的也选了几首新人的摇滚作品加入了歌单，或许还不够那么成熟老练，还是多多支持吧，另外也为这期华语摇滚歌单，注入一股新鲜的血液。</p>
+<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=622277688&auto=0&height=430"></iframe><br>本歌单主要集合了在国内各种摇滚风格里，具有代表性的摇滚人或摇滚乐队的作品，只有崔健的加了三首，分别为《一无所有》、《新长征路上的摇滚》、《花房姑娘》，其他的只选择了一首。<br><a id="more"></a><br>个别的也选了几首新人的摇滚作品加入了歌单，或许还不够那么成熟老练，还是多多支持吧，另外也为这期华语摇滚歌单，注入一股新鲜的血液。</p>
 <p>本歌单纯属个人爱好，如有不足还请见谅，同时也希望大家推荐你喜欢的摇滚人或乐队的曲目，我会有筛选性的加入此歌单内。</p>
 <p>他们续写着青春，追忆着年华，让我们一起来回味那段不老的时光吧</p>
 ]]></content>
@@ -80,7 +80,7 @@
     <summary type="html">
     
       &lt;h2 id=&quot;被遗忘在角落里的呐喊&quot;&gt;&lt;a href=&quot;#被遗忘在角落里的呐喊&quot; class=&quot;headerlink&quot; title=&quot;被遗忘在角落里的呐喊&quot;&gt;&lt;/a&gt;被遗忘在角落里的呐喊&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://p3.music.126.net/nA2ejmvBBAqyg-4MSf7qbg==/109951162872413650.jpg?param=400y400&quot; alt=&quot;avatar&quot; title=&quot;崔健&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=622277688&amp;auto=1&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;br&gt;本歌单主要集合了在国内各种摇滚风格里，具有代表性的摇滚人或摇滚乐队的作品，只有崔健的加了三首，分别为《一无所有》、《新长征路上的摇滚》、《花房姑娘》，其他的只选择了一首。&lt;br&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=622277688&amp;auto=0&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;br&gt;本歌单主要集合了在国内各种摇滚风格里，具有代表性的摇滚人或摇滚乐队的作品，只有崔健的加了三首，分别为《一无所有》、《新长征路上的摇滚》、《花房姑娘》，其他的只选择了一首。&lt;br&gt;
     
     </summary>
     
