@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>纯CSS实现百叶窗</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        #parent >li> span{background: #999999;display: block;width: 200px;border:1px solid #ECEEF2;}
+        li {line-height: 40px;display: block;}
+        li  p{
+            display: inline-block;
+            width: 0px;
+            height: 0px;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 5px solid#2f2f2f;
+        }
+        li>ul{display: none;}
+        li>ul>li{border: 1px solid #DEDEDE;width: 199px;}
+        #parent span:hover + ul{display: block;}
+        #parent span:hover >p{
+            display: inline-block;
+            width: 0px;
+            height: 0px;
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+            border-left: 5px solid#2f2f2f;}
+    </style>
+</head>
+<body>
+<ul id="parent">
+    <li>
+        <span><p></p>列表</span>
+        <ul>
+            <li>子列表</li>
+            <li>子列表</li>
+            <li>子列表</li>
+        </ul>
+    </li>
+    <li>
+        <span><p></p>列表</span>
+        <ul>
+            <a alt="赛罗奥特曼" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr9xwick.html&videoName=赛罗奥特曼" >赛罗奥特曼</a>
+            <a alt="梦比优斯奥特曼" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/dongman/20120420/35cab20a1fa4c9d7.html&videoName=梦比优斯奥特曼" >梦比优斯奥特曼</a>
+            <a alt="拳皇一回合开战" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr8kvoag.html&videoName=拳皇一回合开战" >拳皇一回合开战</a>
+            <a alt="怪兽打爆的奥特曼top5" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr8f5dbk.html&videoName=怪兽打爆的奥特曼top5" >怪兽打爆的奥特曼top5</a>
+            <a alt="童年记忆里的身影" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr7r2spc.html&videoName=童年记忆里的身影" >童年记忆里的身影</a>
+            <a alt="游戏人说动漫" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr7k8zwg.html&videoName=游戏人说动漫" >游戏人说动漫</a>
+        </ul>
+    </li>
+    <li>
+        <span><p></p>列表</span>
+        <ul>
+        <a alt="《战刻夜想曲》PV公开！" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr80mex4.html&videoName=《战刻夜想曲》PV公开！" >《战刻夜想曲》PV公开！</a>
+        <a alt="《夔龙玉》漫画宣传片" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/w_19rtrodb11.html&videoName=《夔龙玉》漫画宣传片" >《夔龙玉》漫画宣传片</a>
+        <a alt="《动画同好会》本渡枫问候视频" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr7s7lv4.html&videoName=《动画同好会》本渡枫问候视频" >《动画同好会》本渡枫问候视频</a>
+        <a alt="轻之文库轻小说新人赏宣传PV" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/w_19rtrmhbjl.html&videoName=轻之文库轻小说新人赏宣传PV" >轻之文库轻小说新人赏宣传PV</a>
+        <a alt="宝可梦的战斗你知道吗" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr8e14wg.html&videoName=宝可梦的战斗你知道吗" >宝可梦的战斗你知道吗</a>
+        <a alt="萌娘说2" target="_self" href="http://www.liudaye.com?src=http://www.iqiyi.com/v_19rr7slib4.html&videoName=萌娘说2" >萌娘说2</a>
+        </ul>
+    </li>
+</ul>
+</body>
+</html>
