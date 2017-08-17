@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.liudaye.com/"/>
-  <updated>2017-08-17T12:09:10.775Z</updated>
+  <updated>2017-08-17T12:47:12.598Z</updated>
   <id>http://www.liudaye.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html"/>
     <id>http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html</id>
     <published>2017-08-17T08:42:02.000Z</published>
-    <updated>2017-08-17T12:09:10.775Z</updated>
+    <updated>2017-08-17T12:47:12.598Z</updated>
     
-    <content type="html"><![CDATA[<p>#介绍Selenium<br>Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！</p>
+    <content type="html"><![CDATA[<p>#介绍Selenium<br>Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！<br><img src="http://p4.music.126.net/yxOCjO4wKhWlzp21-_CdBg==/18673005976849329.jpg?param=400y400" alt="avatar" title="大龄单身孤独症候群患者专享"></p>
+<p><embed src="//music.163.com/style/swf/widget.swf?sid=575073602&type=0&auto=1&width=310&height=430" width="330" height="450" allownetworking="all"><br><a id="more"></a></p>
 <p>#安装python<br><a href="https://www.python.org/downloads/" target="_blank" rel="external">https://www.python.org/downloads/</a> 下载python3不要在首页直接点下载，要根据电脑选择适合的安装包<br><a href="https://www.python.org/downloads/release/python-362/" target="_blank" rel="external">https://www.python.org/downloads/release/python-362/</a> 选【Windows x86-64 executable installer】版本</p>
 <p>安装时选择自定义目录，添加path，和下载基本库，debug等等选项。</p>
 <p>组合按键：win+r，输入：sysdm.cpl，选择高级，查看环境变量是否都配置完整<br>例如<br>主目录：D:\Python36\<br>脚本目:录D:\Python36\Scripts\<br>组合按键：win+r，输入cmd,打开命令行界面，输入python  \pip3 -V 分别检测安装情况</p>
@@ -47,7 +48,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;#介绍Selenium&lt;br&gt;Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫
+      &lt;p&gt;#介绍Selenium&lt;br&gt;Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！&lt;br&gt;&lt;img src=&quot;http://p4.music.126.net/yxOCjO4wKhWlzp21-_CdBg==/18673005976849329.jpg?param=400y400&quot; alt=&quot;avatar&quot; title=&quot;大龄单身孤独症候群患者专享&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;embed src=&quot;//music.163.com/style/swf/widget.swf?sid=575073602&amp;type=0&amp;auto=1&amp;width=310&amp;height=430&quot; width=&quot;330&quot; height=&quot;450&quot;  allowNetworking=&quot;all&quot;&gt;&lt;/embed&gt;&lt;br&gt;
     
     </summary>
     
