@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.liudaye.com/"/>
-  <updated>2017-08-18T06:12:15.957Z</updated>
+  <updated>2017-08-18T10:58:08.467Z</updated>
   <id>http://www.liudaye.com/</id>
   
   <author>
@@ -16,16 +16,65 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>更换Next主题</title>
+    <link href="http://www.liudaye.com/blogs/2017-08-18-nexttheme.html"/>
+    <id>http://www.liudaye.com/blogs/2017-08-18-nexttheme.html</id>
+    <published>2017-08-18T09:54:31.000Z</published>
+    <updated>2017-08-18T10:58:08.467Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;初衷&quot;&gt;&lt;a href=&quot;#初衷&quot; class=&quot;headerlink&quot; title=&quot;初衷&quot;&gt;&lt;/a&gt;初衷&lt;/h2&gt;&lt;p&gt;许久没有经营博客了，今天空闲下来，决定把遗留的问题统一解决一下&lt;/p&gt;
+&lt;h2 id=&quot;遗留问题&quot;&gt;&lt;a href=&quot;#遗留问题&quot; class=&quot;headerlink&quot; title=&quot;遗留问题&quot;&gt;&lt;/a&gt;遗留问题&lt;/h2&gt;&lt;p&gt;评论停服、yilia主题打赏体验太差、没有搜索功能、没有网站地图、没有订阅服务（RSS）、分类，标签不友好&lt;/p&gt;
+&lt;h2 id=&quot;选择Next主题&quot;&gt;&lt;a href=&quot;#选择Next主题&quot; class=&quot;headerlink&quot; title=&quot;选择Next主题&quot;&gt;&lt;/a&gt;选择Next主题&lt;/h2&gt;&lt;p&gt;浏览自由博客大都使用Next主题，并且保持更新，文档清晰等优势，决定使用Next主题&lt;/p&gt;
+&lt;h3 id=&quot;安装Next主题&quot;&gt;&lt;a href=&quot;#安装Next主题&quot; class=&quot;headerlink&quot; title=&quot;安装Next主题&quot;&gt;&lt;/a&gt;安装Next主题&lt;/h3&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://www.liudaye.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="博客" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="http://www.liudaye.com/tags/hexo/"/>
+    
+      <category term="next" scheme="http://www.liudaye.com/tags/next/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费VIP视频，腾讯，爱奇艺，优酷，乐视，芒果tv,土豆视频免广告</title>
+    <link href="http://www.liudaye.com/blogs/2017-08-12-vipvideo.html"/>
+    <id>http://www.liudaye.com/blogs/2017-08-12-vipvideo.html</id>
+    <published>2017-08-12T09:37:57.000Z</published>
+    <updated>2017-08-18T10:59:59.375Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://www.liudaye.com/vip/video.html&quot;&gt; 免费vip视频解析&lt;/a&gt;&lt;br&gt;自动抓取爱奇艺电影，综艺，动漫，vip电视首页资源方便观看&lt;br&gt;输入视频所在网址点击立即播放即可无广告观看视频&lt;br&gt;
+    
+    </summary>
+    
+      <category term="娱乐" scheme="http://www.liudaye.com/categories/%E5%A8%B1%E4%B9%90/"/>
+    
+    
+      <category term="娱乐" scheme="http://www.liudaye.com/tags/%E5%A8%B1%E4%B9%90/"/>
+    
+      <category term="视频" scheme="http://www.liudaye.com/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Selenium学习</title>
-    <link href="http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html"/>
-    <id>http://www.liudaye.com/blogs/2017-08-17-python-Selenium.html</id>
-    <published>2017-08-17T08:42:02.000Z</published>
-    <updated>2017-08-18T06:12:15.957Z</updated>
+    <link href="http://www.liudaye.com/blogs/2017-07-17-python-Selenium.html"/>
+    <id>http://www.liudaye.com/blogs/2017-07-17-python-Selenium.html</id>
+    <published>2017-07-17T08:42:02.000Z</published>
+    <updated>2017-08-18T10:56:50.092Z</updated>
     
     <summary type="html">
     
       &lt;h1 id=&quot;介绍Selenium&quot;&gt;&lt;a href=&quot;#介绍Selenium&quot; class=&quot;headerlink&quot; title=&quot;介绍Selenium&quot;&gt;&lt;/a&gt;介绍Selenium&lt;/h1&gt;&lt;p&gt;Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！&lt;/p&gt;
-&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=575073602&amp;auto=0&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=575073602&amp;auto=1&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h1 id=&quot;安装python&quot;&gt;&lt;a href=&quot;#安装python&quot; class=&quot;headerlink&quot; title=&quot;安装python&quot;&gt;&lt;/a&gt;安装python&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;https://www.python.org/downloads/&lt;/a&gt; 下载python3不要在首页直接点下载，要根据电脑选择适合的安装包&lt;br&gt;&lt;a href=&quot;https://www.python.org/downloads/release/python-362/&quot;&gt;https://www.python.org/downloads/release/python-362/&lt;/a&gt; 选【Windows x86-64 executable installer】版本&lt;br&gt;
     
     </summary>
