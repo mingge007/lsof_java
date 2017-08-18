@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.liudaye.com/"/>
-  <updated>2017-08-18T10:58:08.467Z</updated>
+  <updated>2017-08-18T11:39:41.519Z</updated>
   <id>http://www.liudaye.com/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国产纯音│它们连名字都很美</title>
+    <link href="http://www.liudaye.com/blogs/2017-08-18-music1.html"/>
+    <id>http://www.liudaye.com/blogs/2017-08-18-music1.html</id>
+    <published>2017-08-18T11:34:56.000Z</published>
+    <updated>2017-08-18T11:39:41.519Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://p1.music.126.net/jSmK4vYSgOhlk2RW8GT_Gg==/19206269114276412.jpg?param=880y880&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;歌单内包含轻音乐、中国古典乐器音乐、后摇。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="娱乐" scheme="http://www.liudaye.com/categories/%E5%A8%B1%E4%B9%90/"/>
+    
+    
+      <category term="音乐" scheme="http://www.liudaye.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+      <category term="电子" scheme="http://www.liudaye.com/tags/%E7%94%B5%E5%AD%90/"/>
+    
+      <category term="后摇" scheme="http://www.liudaye.com/tags/%E5%90%8E%E6%91%87/"/>
+    
+  </entry>
   
   <entry>
     <title>更换Next主题</title>
@@ -70,12 +96,12 @@
     <link href="http://www.liudaye.com/blogs/2017-07-17-python-Selenium.html"/>
     <id>http://www.liudaye.com/blogs/2017-07-17-python-Selenium.html</id>
     <published>2017-07-17T08:42:02.000Z</published>
-    <updated>2017-08-18T10:56:50.092Z</updated>
+    <updated>2017-08-18T11:39:11.416Z</updated>
     
     <summary type="html">
     
       &lt;h1 id=&quot;介绍Selenium&quot;&gt;&lt;a href=&quot;#介绍Selenium&quot; class=&quot;headerlink&quot; title=&quot;介绍Selenium&quot;&gt;&lt;/a&gt;介绍Selenium&lt;/h1&gt;&lt;p&gt;Selenium 是什么？一句话，自动化测试工具。它支持各种浏览器，包括 Chrome，Safari，Firefox 等主流界面式浏览器，如果你在这些浏览器里面安装一个 Selenium 的插件，那么便可以方便地实现Web界面的测试。换句话说叫 Selenium 支持这些浏览器驱动。Selenium支持多种语言开发，比如 Java，C，Ruby等等，而对于python，当然也是支持的！&lt;/p&gt;
-&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=575073602&amp;auto=1&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=450 src=&quot;//music.163.com/outchain/player?type=0&amp;id=575073602&amp;auto=0&amp;height=430&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h1 id=&quot;安装python&quot;&gt;&lt;a href=&quot;#安装python&quot; class=&quot;headerlink&quot; title=&quot;安装python&quot;&gt;&lt;/a&gt;安装python&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;https://www.python.org/downloads/&lt;/a&gt; 下载python3不要在首页直接点下载，要根据电脑选择适合的安装包&lt;br&gt;&lt;a href=&quot;https://www.python.org/downloads/release/python-362/&quot;&gt;https://www.python.org/downloads/release/python-362/&lt;/a&gt; 选【Windows x86-64 executable installer】版本&lt;br&gt;
     
     </summary>

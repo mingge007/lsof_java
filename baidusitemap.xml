@@ -5,6 +5,54 @@
     
     
   <url>
+    <loc>http://www.liudaye.com/blogs/2017-08-18-music1.html</loc>
+    <lastmod>2017-08-18T11:39:41.519Z</lastmod>
+    <data>
+        <display>
+        <title>国产纯音│它们连名字都很美</title>
+        <pubTime>2017-08-18T11:34:56.000Z</pubTime>
+        
+        <tag>音乐</tag>
+         
+        <tag>电子</tag>
+         
+        <tag>后摇</tag>
+         
+         
+           
+             
+              <breadCrumb title="娱乐" url="http://www.liudaye.com/categories/%E5%A8%B1%E4%B9%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.liudaye.com/blogs/2017-07-17-python-Selenium.html</loc>
+    <lastmod>2017-08-18T11:39:11.416Z</lastmod>
+    <data>
+        <display>
+        <title>Selenium学习</title>
+        <pubTime>2017-07-17T08:42:02.000Z</pubTime>
+        
+        <tag>学习笔记</tag>
+         
+        <tag>python</tag>
+         
+        <tag>测试</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习" url="http://www.liudaye.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.liudaye.com/blogs/2017-08-12-vipvideo.html</loc>
     <lastmod>2017-08-18T11:01:01.400Z</lastmod>
     <data>
@@ -39,30 +87,6 @@
         <tag>hexo</tag>
          
         <tag>next</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习" url="http://www.liudaye.com/categories/%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.liudaye.com/blogs/2017-07-17-python-Selenium.html</loc>
-    <lastmod>2017-08-18T10:56:50.092Z</lastmod>
-    <data>
-        <display>
-        <title>Selenium学习</title>
-        <pubTime>2017-07-17T08:42:02.000Z</pubTime>
-        
-        <tag>学习笔记</tag>
-         
-        <tag>python</tag>
-         
-        <tag>测试</tag>
          
          
            
@@ -111,6 +135,7 @@
     
     
     
+    
   <url>
     <loc>http://www.liudaye.com/blogs/2017-03-15-music-test.html</loc>
     <lastmod>2017-08-17T12:07:35.473Z</lastmod>
@@ -132,7 +157,6 @@
     </data>
     </url>
 
-    
     
   <url>
     <loc>http://www.liudaye.com/blogs/2017-03-15-photos1.html</loc>
