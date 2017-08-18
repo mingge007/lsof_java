@@ -411,6 +411,18 @@
 
           
             
+            <!--noindex-->
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/blogs/2017-03-20-second.html#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count hc-comment-count" data-xid="blogs/2017-03-20-second.html" itemprop="commentsCount"></span>
+                </a>
+              </span>
+              <!--/noindex-->
+            
           
 
           
@@ -580,6 +592,8 @@ var jiathis_config={
 
           
   <div class="comments" id="comments">
+    
+      <div id="hypercomments_widget"></div>
     
   </div>
 
@@ -793,18 +807,20 @@ var jiathis_config={
 </div>
 
 
-  <div class="powered-by">
-    由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+   <!--
+   <div class="powered-by">
+    本站为 <a class="theme-link" href="http://www.liudaye.com">刘大爷</a> 所有
   </div>
 
-  <span class="post-meta-divider">|</span>
+ <span class="post-meta-divider">|</span>
 
   <div class="theme-info">
     主题 &mdash;
-    <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-      NexT.Pisces
+    <a class="theme-link" href="http://www.liudaye.com/vip/video.html">
+      免费视频网站
     </a>
   </div>
+  -->
 
 
         
@@ -938,17 +954,31 @@ var jiathis_config={
 
 	
 
+		<script type="text/javascript">
+		_hcwp = window._hcwp || [];
+
+		_hcwp.push({widget:"Bloggerstream", widget_id: 94585, selector:".hc-comment-count", label: "{\%COUNT%\}" });
+
+		
+		_hcwp.push({widget:"Stream", widget_id: 94585, xid: "blogs/2017-03-20-second.html"});
+		
+
+		(function() {
+		if("HC_LOAD_INIT" in window)return;
+		HC_LOAD_INIT = true;
+		var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+		var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+		hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/94585/"+lang+"/widget.js";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hcc, s.nextSibling);
+		})();
+		</script>
+
+	
 
 
 
 
-  
-
-
-
-
-
-  
 
 
 
