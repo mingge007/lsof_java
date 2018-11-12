@@ -4,6 +4,30 @@
 
     
     
+  <url>
+    <loc>http://www.liudaye.com/blogs/2017-08-18-nexttheme.html</loc>
+    <lastmod>2018-11-12T09:03:50.869Z</lastmod>
+    <data>
+        <display>
+        <title>更换Next主题</title>
+        <pubTime>2017-08-18T09:54:31.000Z</pubTime>
+        
+        <tag>博客</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>next</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习" url="http://www.liudaye.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
     
     
@@ -132,30 +156,6 @@
            
              
               <breadCrumb title="娱乐" url="http://www.liudaye.com/categories/%E5%A8%B1%E4%B9%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.liudaye.com/blogs/2017-08-18-nexttheme.html</loc>
-    <lastmod>2017-08-18T10:58:08.467Z</lastmod>
-    <data>
-        <display>
-        <title>更换Next主题</title>
-        <pubTime>2017-08-18T09:54:31.000Z</pubTime>
-        
-        <tag>博客</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>next</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习" url="http://www.liudaye.com/categories/%E5%AD%A6%E4%B9%A0/"/>
           
         </display>
     </data>
