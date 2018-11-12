@@ -108,7 +108,7 @@
 遗留问题评论停服、yilia主题打赏体验太差、没有搜索功能、没有网站地图、没有订阅服务（RSS）、分类，标签不友好
 选择Next主题浏览自由博客大都使用Next主题，并且保持更新，文档清晰等优势，决定使用Next主题
 安装Next主题">
-<meta property="og:updated_time" content="2018-11-12T09:03:50.869Z">
+<meta property="og:updated_time" content="2018-11-12T09:06:32.612Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="更换Next主题">
 <meta name="twitter:description" content="初衷许久没有经营博客了，今天空闲下来，决定把遗留的问题统一解决一下
@@ -488,7 +488,11 @@
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="attr">local_search:</span></div><div class="line"><span class="attr">  enable:</span> <span class="literal">true</span></div></pre></td></tr></table></figure>
 <h4 id="如果安装过插件可以执行更新指令"><a href="#如果安装过插件可以执行更新指令" class="headerlink" title="如果安装过插件可以执行更新指令"></a>如果安装过插件可以执行更新指令</h4><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">npm</span> update 模块</div></pre></td></tr></table></figure>
 <h4 id="不算子统计网站访问次数失效"><a href="#不算子统计网站访问次数失效" class="headerlink" title="不算子统计网站访问次数失效"></a>不算子统计网站访问次数失效</h4><p>原因是之前的js地址已经失效，需要修改js地址为<br><figure class="highlight awk"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">https:<span class="regexp">//</span>busuanzi.ibruce.info<span class="regexp">/busuanzi/</span><span class="number">2.3</span><span class="regexp">/busuanzi.pure.mini.js</span></div></pre></td></tr></table></figure></p>
-<p>修改位置<br>-主题文件 e.g. next主题中的文件 themes/next/layout/_third-party/analytics/busuanzi-counter.swig 中的busuanzi.js(查找方法 grep -r busuanzi themes/next/|grep js)<br>-非模板生成的静态页面 e.g. vip/video.htm</p>
+<p>修改位置</p>
+<ul>
+<li>主题文件 e.g. next主题中的文件 themes/next/layout/_third-party/analytics/busuanzi-counter.swig 中的busuanzi.js(查找方法 grep -r busuanzi themes/next/|grep js)</li>
+<li>非模板生成的静态页面 e.g. vip/video.htm</li>
+</ul>
 
       
     </div>
