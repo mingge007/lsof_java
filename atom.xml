@@ -126,11 +126,11 @@
       <category term="学习" scheme="http://www.liudaye.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="博客" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="next" scheme="http://www.liudaye.com/tags/next/"/>
     
       <category term="hexo" scheme="http://www.liudaye.com/tags/hexo/"/>
     
-      <category term="next" scheme="http://www.liudaye.com/tags/next/"/>
+      <category term="博客" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -269,9 +269,9 @@
       <category term="生活" scheme="http://www.liudaye.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="博客" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
       <category term="hexo" scheme="http://www.liudaye.com/tags/hexo/"/>
+    
+      <category term="博客" scheme="http://www.liudaye.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
